@@ -16,6 +16,8 @@ class Ermek:
         print("age: 19 years old")
         print("email: ermek.ilikeshova_2025@ucentralasia.org")
         print("gender: female")
+        print("birthdate: 26.09.2002")
+        
         
         
         
