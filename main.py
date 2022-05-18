@@ -18,6 +18,7 @@ class Ermek:
         print("gender: female")
         print("birthdate: 26.09.2002")
         print("speciality: Back-End")
+        print("country of origin: Kyrgyzstan")
         
         
         
