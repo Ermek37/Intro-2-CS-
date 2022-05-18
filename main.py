@@ -13,4 +13,5 @@ def developer1method():
         print("name: Ermek")
         print("surname: Ilikeshova")
         print("age: 19 years old")
+        print("email: ermek.ilikeshova_2025@ucentralasia.org")
         
