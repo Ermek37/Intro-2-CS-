@@ -8,3 +8,7 @@ def developer1method():
     print("birthdate: 11.13.2002")
     print("speciality: Front-End")
     print("country of origin: Kyrgyzstan")
+    
+    def developer2method():
+        print("name: Ermek")
+        
