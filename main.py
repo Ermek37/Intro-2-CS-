@@ -6,3 +6,5 @@ def developer1method():
     print("cohort: Computer Science")
     print("gender: Female")
     print("birthdate: 11.13.2002")
+    print("speciality: Front-End")
+    
