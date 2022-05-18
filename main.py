@@ -15,3 +15,18 @@ def developer1method():
         print("age: 19 years old")
         print("email: ermek.ilikeshova_2025@ucentralasia.org")
         
+        
+        
+class Benazir:
+    def  developer3method():
+        print("Benazir")
+        print("Temiralieva")
+        print("benazir.temiralieva_2025@ucentralasia.org")
+        print("Freshmen Computer Science")
+        print("20💀")
+        print("Female?")
+        print("04.09.2002")
+        print("Engineer🤡")
+        print("Kazakhstan")
+     
+        
