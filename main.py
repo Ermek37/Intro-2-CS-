@@ -12,4 +12,5 @@ def developer1method():
     def developer2method():
         print("name: Ermek")
         print("surname: Ilikeshova")
+        print("age: 19 years old")
         
