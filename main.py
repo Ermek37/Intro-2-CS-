@@ -8,12 +8,14 @@ def developer1method():
     print("birthdate: 11.13.2002")
     print("speciality: Front-End")
     print("country of origin: Kyrgyzstan")
-    
+
+class Ermek:
     def developer2method():
         print("name: Ermek")
         print("surname: Ilikeshova")
         print("age: 19 years old")
         print("email: ermek.ilikeshova_2025@ucentralasia.org")
+        print("gender: female")
         
         
         
