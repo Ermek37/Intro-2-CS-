@@ -8,4 +8,5 @@ print("hobby1: voleyball")
 print("hobby2: football")
 print("hobby3:art")
 print("hobby4: dance")
+print("hobby5: singing")
 
