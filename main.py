@@ -7,4 +7,4 @@ def developer1method():
     print("gender: Female")
     print("birthdate: 11.13.2002")
     print("speciality: Front-End")
-    
+    print("country of origin: Kyrgyzstan")
