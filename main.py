@@ -11,4 +11,5 @@ def developer1method():
     
     def developer2method():
         print("name: Ermek")
+        print("surname: Ilikeshova")
         
