@@ -17,6 +17,7 @@ class Ermek:
         print("email: ermek.ilikeshova_2025@ucentralasia.org")
         print("gender: female")
         print("birthdate: 26.09.2002")
+        print("speciality: Back-End")
         
         
         
