@@ -5,3 +5,4 @@ def developer1method():
     print("email: aeldaniiarovna@gmail.com")
     print("cohort: Computer Science")
     print("gender: Female")
+    print("birthdate: 11.13.2002")
